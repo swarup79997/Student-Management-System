@@ -255,7 +255,7 @@ For support, please create an issue in the repository or contact the development
 
 ## 👨‍💻 Author
 
-**GitHub**: [https://github.com/yourusername](https://github.com/swarup79997/)  
+**GitHub**: [Chennuru Swarup](https://github.com/swarup79997/)  
 **Email**: swarup8125@gmail.com
 
 **Built with ❤️ using Vanilla JavaScript, CSS3, and HTML5**
