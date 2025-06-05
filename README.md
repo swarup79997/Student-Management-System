@@ -4,7 +4,7 @@ A beautiful, responsive web application for managing student records with modern
 
 ![Student Management System](SMS_IMG1.png)
 ![Student Form](SMS_IMG2.png)
-![Student Table List](SMS_IMG2.png)
+![Student Table List](SMS_IMG3.png)
 
 ## 🌟 Features
 
